@@ -1,0 +1,11 @@
+{
+    "modules": [
+        "random",
+        "math",
+        "datetime",
+        "sqllite",
+        "tkinter"
+    ],
+    "timeout": 5,
+    "input_process_timeout": 50 
+}
